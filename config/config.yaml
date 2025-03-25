@@ -1,0 +1,14 @@
+# API 서버 설정
+api:
+  host: localhost
+  port: 8000
+
+# 데이터 수집 설정
+collection:
+  interval: 300
+  max_records: 50000
+
+# 로깅 설정
+logging:
+  level: INFO
+  file: logs/api_service.log 

@@ -1,0 +1,14 @@
+{
+  "startTime": "2025-03-25T15:07:11",
+  "collectionTime": "2025-03-25T15:12:11.581474",
+  "dataCnt": 1,
+  "data": [
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T15:07:11",
+      "value": 3500,
+      "status": "PENDING",
+      "id": "DATA_0_20250325150711"
+    }
+  ]
+}

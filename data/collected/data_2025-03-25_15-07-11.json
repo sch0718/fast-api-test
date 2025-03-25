@@ -1,0 +1,56 @@
+{
+  "startTime": "2025-03-25T14:07:11",
+  "collectionTime": "2025-03-25T15:07:11.580721",
+  "dataCnt": 7,
+  "data": [
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:07:11",
+      "value": 9263,
+      "status": "PENDING",
+      "id": "DATA_0_20250325140711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:17:11",
+      "value": 3899,
+      "status": "PENDING",
+      "id": "DATA_1_20250325141711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:27:11",
+      "value": 3860,
+      "status": "FAILED",
+      "id": "DATA_2_20250325142711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:37:11",
+      "value": 4788,
+      "status": "FAILED",
+      "id": "DATA_3_20250325143711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:47:11",
+      "value": 7781,
+      "status": "FAILED",
+      "id": "DATA_4_20250325144711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T14:57:11",
+      "value": 6698,
+      "status": "PENDING",
+      "id": "DATA_5_20250325145711"
+    },
+    {
+      "tfservicedtime": "20250325",
+      "timestamp": "2025-03-25T15:07:11",
+      "value": 6719,
+      "status": "SUCCESS",
+      "id": "DATA_6_20250325150711"
+    }
+  ]
+}
