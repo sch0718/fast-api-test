@@ -79,3 +79,6 @@ poetry.lock
 
 # Docker 관련
 .dockerignore 
+
+# project 관련
+data/
